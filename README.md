@@ -1,1 +1,1 @@
-# Sentiment-Analysis-fo-Product-Reviews
+# Sentiment-Analysis-for-Product-Reviews
